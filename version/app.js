@@ -3,7 +3,7 @@ app = express();
 
 var response;
 
-//Version 2
+//Version 3
 app.get('/', function (req, res) {
 
     response = 'This is version 3 of the app.' + '\n';
